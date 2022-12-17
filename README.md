@@ -8,3 +8,6 @@ Our tree planting robot, namely [iPlanter](https://devpost.com/software/tree-pla
  <img src="demo/iplanter.gif" data-canonical-src="demo/iplanter.gif width="600"/><br/>
  <i>iPlanter Outdoor Testing</i>
  </p>
+
+## Note
+For more details, please refer [my post at GT IEEE 2022 RoboTech Hackathon](https://devpost.com/software/tree-planting-robot) and [the video demo](https://youtu.be/GZ0oAX-lLSM) on my YouTube channel.
