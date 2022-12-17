@@ -5,6 +5,6 @@ Our tree planting robot, namely [iPlanter](https://devpost.com/software/tree-pla
 
 ## Demo
  <p align="center">
- <img src="demo/iplanter.gif" data-canonical-src="demo/iplanter.gif" width="600"/><br/>
+ <img src="demo/iplanter.gif" data-canonical-src="demo/iplanter.gif width="600"/><br/>
  <i>iPlanter Outdoor Testing</i>
  </p>
